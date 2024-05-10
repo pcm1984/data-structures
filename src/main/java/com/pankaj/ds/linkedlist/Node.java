@@ -1,4 +1,4 @@
-package com.pankaj.ds;
+package com.pankaj.ds.linkedlist;
 
 public class Node<T> {
     private Node<T> next;

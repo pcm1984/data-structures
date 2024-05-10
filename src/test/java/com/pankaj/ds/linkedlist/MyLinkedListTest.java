@@ -1,4 +1,5 @@
-import com.pankaj.ds.MyLinkedList;
+package com.pankaj.ds.linkedlist;
+
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

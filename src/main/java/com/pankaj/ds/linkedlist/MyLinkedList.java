@@ -1,4 +1,4 @@
-package com.pankaj.ds;
+package com.pankaj.ds.linkedlist;
 
 public class MyLinkedList<T> {
     private Node<T> start;
